@@ -116,12 +116,23 @@
 <!-- SECCIÓN: MÉTRICAS DE RENDIMIENTO (GRÁFICAS DE ALTO IMPACTO) -->
 <h2><font color="#07CBBB">⚡ REAL-TIME PERFORMANCE GRAPH</font></h2>
 <p align="center">
-  <!-- Gráfica de actividad en tiempo real sin bordes y adaptada a tus colores oscuros/turquesa -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jurobega&show_icons=true&theme=tokyonight&title_color=07CBBB&icon_color=07CBBB&text_color=94A3B8&bg_color=0F172A&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurobega&theme=tokyonight&ring=07CBBB&fire=07CBBB&currStreakNum=F8FAFC&background=0F172A&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jurobega&theme=tokyonight" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurobega&theme=tokyonight&ring=07CBBB&fire=07CBBB&currStreakNum=F8FAFC&background=0F172A&hide_border=true" width="48%" />
 </p>
 
 <br/>
+
+<h2><font color="#07CBBB">📊 MOST_USED_LANGUAGES // LENGUAJES MÁS USADOS</font></h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jurobega&theme=tokyonight" width="48%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jurobega&theme=tokyonight" width="48%" />
+</p>
+
+<br/>
+
+
 
 <!-- COMPONENTE ADVERTENCIA: INTERFAZ DE FILOSOFÍA TÉCNICA -->
 <table border="0" cellpadding="20" cellspacing="0" width="100%" bgcolor="#0F172A" style="border-left: 6px solid #07CBBB; border-radius: 16px;">
